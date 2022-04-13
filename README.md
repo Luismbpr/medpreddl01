@@ -15,11 +15,11 @@ Creation and Deployment of Multiple Machine and Deep Learning Disease Prediction
 * [Other Information](#other-information)
 
 ***
-## About Project General [About Project General]
+## About Project General (#about-project)
 <p> Creation and deployment of an application that predicts multiple diseases.</p>
 <p> This Web Application makes a prediction whether a set of inputs correspond or not to a disease.</p>
 
-## Project General Procedure [Project General Procedure]
+## Project General Procedure [Project General Procedure] (#project-general-procedure)
 <ul>
 <li><p> Dataset:</p></li>
 <ul>
@@ -146,29 +146,29 @@ The dataset contains information about whether those cells were benign or malign
 <li> * Python </li>
 <br>
 <ul>
-<li><p>-- Data Analysis.</p></li>
+<li><p> Data Analysis.</p></li>
 <br>
-<li><p>-- Model Creation.</p></li>
+<li><p> Model Creation.</p></li>
 <br>
-<li><p>-- Model Deployment.</p></li>
+<li><p> Model Deployment.</p></li>
 <br>
 </ul>
 
 <li> * HTML and CSS </li>
 <br>
 <ul>
-<li><p>-- Website - Front End for model deployment.</p></li>
+<li><p> Website - Front End for model deployment.</p></li>
 <br>
 </ul>
 </ul>
 
 ## Other Resources
 <ul>
-<li><p>* Flask<</p>/li>
+<li><p> Flask.</p></li>
 <br>
-<li><p>* Gunicorn<</p>/li>
+<li><p> Gunicorn.</p></li>
 <br>
-<li><p>* Heroku<</p>/li>
+<li><p> Heroku.</p></li>
 <br>
 </ul>
 <br>
