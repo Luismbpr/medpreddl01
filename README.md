@@ -1,5 +1,5 @@
 # Project: medpreds06
-Creation and Deployment of Multiple Machine and Deep Learning Disease Prediction Models
+Creation and Deployment of Multiple Machine and Deep Learning Disease Prediction Models.
 ***
 
 ## Table of Contents
@@ -15,12 +15,12 @@ Creation and Deployment of Multiple Machine and Deep Learning Disease Prediction
 * [Other Information](#other-information)
 
 ***
-## About Project General
+## About Project General (#about-project)
 <p> Creation and deployment of an application that predicts multiple diseases.</p>
 <p> This Web Application makes a prediction whether a set of inputs correspond or not to a disease.</p>
 <br>
 
-## Project General Procedure
+## Project General Procedure [Project General Procedure]
 <ul>
 <li><p> Dataset:</p></li>
 <ul>
