@@ -3,7 +3,7 @@ Creation and Deployment of Multiple Machine and Deep Learning Disease Prediction
 ***
 
 ## Table of Contents
-* [About Project](#about-project)
+* [About Project General](#about-project)
 * [Project General Procedure](#project-general-procedure)
 * [Project Information](#project-information)
 * [List of Diseases](#list-of-diseases)
@@ -15,10 +15,9 @@ Creation and Deployment of Multiple Machine and Deep Learning Disease Prediction
 * [Other Information](#other-information)
 
 ***
-## About Project General (#about-project)
+## About Project General [About Project General]
 <p> Creation and deployment of an application that predicts multiple diseases.</p>
 <p> This Web Application makes a prediction whether a set of inputs correspond or not to a disease.</p>
-<br>
 
 ## Project General Procedure [Project General Procedure]
 <ul>
@@ -47,10 +46,10 @@ Creation and Deployment of Multiple Machine and Deep Learning Disease Prediction
 <br>
 
 ## Project Information
-<p>The Datasets used where gathered from different sources. For further information see 'Dataset Information'.</p>
-<p>Data Analysis was done for every dataset used.</p>
+<p>The Datasets used where gathered from different sources. For further information see 'Dataset Information'.</p><!--> Put link of Dataset Information<!-->
+<p>Data Analysis and model creation was done for each dataset.</p>
 <br>
-<p>For this application the model creation decision was done taking in consideration various factors, and was not solely based on model accuracy.</p>
+<p>The model creation decision was done taking in consideration various factors, and was not solely based on model accuracy.</p>
 <br>
 <p>Different languages and resources where used in order for this application to be deployed on the web.</p>
 <br>
@@ -80,7 +79,6 @@ The dataset contains information about whether those cells were benign or malign
 <p>Each Dataset contains specific information about the disease.</p>
 <p> The sources used for the acquisition of the datasets are the following:</p>
 
-<!--> ------------------------ Cancer Start ------------------------ <!-->
 <ul>
 <li><p>Cancer Dataset Information</p></li>
 </ul>
@@ -145,18 +143,25 @@ The dataset contains information about whether those cells were benign or malign
 
 ## Languages Used
 <ul>
-* Python <br>
+<li> * Python </li>
+<br>
+<ul>
 <li><p>-- Data Analysis.</p></li>
 <br>
 <li><p>-- Model Creation.</p></li>
 <br>
 <li><p>-- Model Deployment.</p></li>
 <br>
+</ul>
 
-* HTML and CSS <br>
+<li> * HTML and CSS </li>
+<br>
+<ul>
 <li><p>-- Website - Front End for model deployment.</p></li>
 <br>
 </ul>
+</ul>
+
 ## Other Resources
 <ul>
 <li><p>* Flask<</p>/li>
