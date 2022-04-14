@@ -66,7 +66,7 @@
 <p> Each Dataset contains specific information and whether a user has or not the disease.</p>
 <p> The sources used for the acquisition of the datasets are the following:</p>
 
-<!--> ------------------------ Cancer Start - Done  ------------------------ <!-->
+***
 <ul>
 <li><p>Cancer Dataset Information</p></li>
 </ul>
@@ -78,8 +78,7 @@
 - Sources:
 - <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
 
-<!--> ------------------------ Cancer End - Done ------------------------ <!-->
-<!--> ------------------------ Diabetes Start - Done  ------------------------ <!-->
+***
 <ul>
 <li><p>Diabetes Dataset Information</p></li>
 </ul>
@@ -96,9 +95,7 @@
 - <i>Donor of database: Vincent Sigillito (vgs@aplcen.apl.jhu.edu) Research Center, RMI Group Leader Applied Physics Laboratory The Johns Hopkins University Johns Hopkins Road Laurel, MD 20707 (301) 953-6231.</i>
 - <i>(NIDDK) National Institute of Diabetes and Digestive and Kidney Diseases</i>
 
-<!--> ------------------------ Diabetes End - Done ------------------------ <!-->
-
-<!--> ------------------------ Heart Start - Done ------------------------ <!-->
+***
 <ul>
 <li><p>Heart Disease Dataset Information</p></li>
 </ul>
@@ -111,9 +108,8 @@
 
 - Sources:
 - <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/heart+disease" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
-<!--> ------------------------ Heart End - Done ------------------------ <!-->
+***
 
-<!--> ------------------------ Kidney Start - Done ------------------------ <!-->
 <ul>
 <li><p>Kidney Disease Dataset Information</p></li>
 </ul>
@@ -126,9 +122,8 @@
 - Sources:
 - <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
 
-<!--> ------------------------ Kidney End - Done ------------------------ <!-->
+***
 
-<!--> ------------------------ Liver Start - Done ------------------------ <!-->
 <ul>
 <li><p>Liver Disease Dataset Information</p></li>
 </ul>
@@ -143,8 +138,8 @@
 - Sources:
 - <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29#)" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
 
-<!--> ------------------------ Liver End - Done ------------------------ <!-->
-<!--> ------------------------ Malaria Start - Done ------------------------ <!-->
+***
+
 <ul>
 <li><p>Malaria Dataset Information</p></li>
 </ul>
@@ -159,9 +154,8 @@
 - Sources:
 - <i>National Library of Medicine Lister Hill National Center for Biomedical Communications. <a href="https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets" target="https://lhncbc.nlm.nih.gov/"> LHNCBC</a>.</i>
 
-<!--> ------------------------ Malaria End  - Done ------------------------ <!-->
+***
 
-<!--> ------------------------ Pneumonia Start ------------------------ <!-->
 <ul>
 <li><p> Pneumonia Dataset Information</p></li>
 </ul>
@@ -178,15 +172,16 @@
 - Sources:
 - Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2
 
-<!--> ------------------------ Pneumonia End ------------------------ <!-->
-<!--> --------------------------------------------------------------- <!-->
+***
+
 ## Project Deployment
 * [Project Located on Github](https://github.com/Luismbpr/medpreddl01).
 * [Project deployed on Heroku Cloud](https://medpreddl01.herokuapp.com/).
 
 ***
-<br>
-## Different languages and resources where used in order for this application to be deployed.
+
+ <p> Different languages and resources where used in order for this application to be deployed. </p>
+
 ## Languages Used
 <br>
 <ul>
@@ -218,10 +213,11 @@
 <p>The model creation decision was done taking in consideration various factors, some of them involving the app deployment on the web.</p>
 <br>
 - Based on Shobhit Srivastava's and Karan Mehra's <a href="https://github.com/shobhitsrivastava-ds/ML-MT-WebApp" target="_blank">Project</a>
+
+- For other projects made by me  <a href="https://github.com/Luismbpr/" target="_blank">click here</a>
 <br>
 
 ## Notes
-<br>
 <p> This project was not endorsed by any company.</p>
 <p> Special gratitude to all the people who make available the information for the general public. </p>
 <br>
