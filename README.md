@@ -1,5 +1,5 @@
 # Project: medpreds06
-
+<sup name="a1">[1](#f1)</sup>
 ***
 
 ## Table of Contents
@@ -234,8 +234,8 @@
 
 ***
 
-<sup name="a1">[1](#f1)</sup>
 
+<b name="f1">1</b> Footnote Content Here [](#a1)
 
 <p>link back to footnote1</p>
 
@@ -248,6 +248,3 @@
 <p>link back to footnote5</p>
 
 <p>link back to footnote6</p>
-
-
-<b name="f1">1</b> Footnote Content Here [](#a1)
