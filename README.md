@@ -1,5 +1,4 @@
-# Project: medpreds06
-
+# Project: medpreddl01
 ***
 
 ## Table of Contents
@@ -219,7 +218,10 @@
 <br>
 - Based on Shobhit Srivastava's and Karan Mehra's <a href="https://github.com/shobhitsrivastava-ds/ML-MT-WebApp" target="_blank">Project</a>
 
-- For further inquiries and to see other projects made by me please <a href="https://github.com/Luismbpr/" target="_blank">click here</a>
+<p> If you have any questions about the way this project was made.
+- For further questions about the way this project was made or to see other projects made by me please <a href="https://github.com/Luismbpr/" target="_blank">click here</a>
+- For further questions about the way this project was made or for further inquiries e <a href="https://github.com/Luismbpr/" target="_blank">click here</a>
+
 <br>
 
 * [Back to Table of Contents](#table-of-contents)
@@ -227,7 +229,6 @@
 ## Notes
 <p> This project was not endorsed by any company.</p>
 <p> Special gratitude to all the people who make the datasets and all the information available.</p>
-<br>
 <hr>
 <p> The application and information displayed here is for educational purposes. The accuracy of the models varies and will make some prediction errors. This should not be taken as medical advice.</p>
 <p> For further questions about the diseases go with your medical advisor.</p>
