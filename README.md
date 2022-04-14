@@ -1,5 +1,7 @@
 # Project: medpreddl01
 ***
+<p> Creation and deployment of an application that predicts whether a set of inputs correspond or not to a disease.</p>
+<hr>
 
 ## Table of Contents
 
@@ -16,10 +18,16 @@
 
 ***
 ## About
+<p> The initial project consisted of a set of models created using ML and DL Models based on different disease datasets acquired from different sources.</p>
+
+<p> The initial project had to be separated into two separate projects. A project that takes numerical inputs and another project that takes images as inputs to predict whether an image corresponds to a disease or not.</p>
+
+<p> This part of the project consists of models that require images as inputs</p>
+
 <p> Creation and deployment of an application that predicts whether a set of inputs correspond or not to a disease.</p>
-<p> This project was created using ML and DL Models based on different disease datasets acquired from different sources.</p>
 
 * [Back to Table of Contents](#table-of-contents)
+<br>
 
 ## Project Procedure
 <ul>
@@ -63,7 +71,7 @@
 <li><p><b>Malaria.</b></p></li>
 <li><p><b>Pneumonia.</b></p></li>
 </ul>
-
+<br>
 * [Back to Table of Contents](#table-of-contents)
 
 <hr>
