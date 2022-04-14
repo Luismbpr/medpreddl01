@@ -64,11 +64,6 @@
 <h4> The diseases that this app can predict are the following:</h4>
 <ul>
 <hr>
-<li><p><b>Cancer.</b></p></li>
-<li><p><b>Diabetes.</b></p></li>
-<li><p><b>Heart Disease.</b></p></li>
-<li><p><b>Liver Disease.</b></p></li>
-<li><p><b>Kidney Disease.</b></p></li>
 <li><p><b>Malaria.</b></p></li>
 <li><p><b>Pneumonia.</b></p></li>
 </ul>
@@ -81,76 +76,6 @@
 <p> The information for the acquisition of each disease was gathered by different entities and with different methods.</p>
 <p> Each Dataset contains specific information and whether a user has or not the disease.</p>
 <p> The sources used for the acquisition of the datasets are the following</p>
-
-***
-<h4> Cancer Dataset Information</h4>
-
-* Taken from: [UCI](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
-
-* For more information about cancer please visit: [cancer.net](https://www.cancer.net/)).
-
-- Sources:
-- <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
-
-* [Back to Table of Contents](#table-of-contents)
-
-***
-<h4> Diabetes Dataset Information</h4>
-
-* Taken from: [NIDDK](https://www.niddk.nih.gov/health-information/diabetes/).
-
-* Dataset also located on: [Kaggle](https://www.kaggle.com/mathchi/diabetes-data-set).
-
-* For more information about diabetes please visit the following websites:
-* [cdc.gov](https://www.cdc.gov/diabetes/index.html).
-* [diabetes.org](https://www.diabetes.org/).
-
-- Sources:
-- <i>Donor of database: Vincent Sigillito (vgs@aplcen.apl.jhu.edu) Research Center, RMI Group Leader Applied Physics Laboratory The Johns Hopkins University Johns Hopkins Road Laurel, MD 20707 (301) 953-6231.</i>
-- <i>(NIDDK) National Institute of Diabetes and Digestive and Kidney Diseases</i>
-
-* [Back to Table of Contents](#table-of-contents)
-
-***
-<h4> Heart Disease Dataset Information</h4>
-
-* Taken from: [UCI](https://archive.ics.uci.edu/ml/datasets/heart+disease).
-
-* For more information about heart disease please visit the following websites:
-* [cdc.gov](https://www.cdc.gov/heartdisease/index.htm).
-* [heart.org](https://www.heart.org/).
-
-- Sources:
-- <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/heart+disease" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
-
-* [Back to Table of Contents](#table-of-contents)
-***
-<h4> Kidney Disease Dataset Information</h4>
-
-* Taken from: [UCI](https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease).
-
-* For more information kidney disease please visit the following websites:
-* [NIDDK](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/what-is-chronic-kidney-disease#symptoms).
-
-- Sources:
-- <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
-
-* [Back to Table of Contents](#table-of-contents)
-
-***
-<h4> Liver Disease Dataset Information</h4>
-
-* Taken from: [UCI](https://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29#).
-
-* For more information about liver disease please visit the following websites:
-* [liverfoundation.org](https://liverfoundation.org/).
-* [mayoclinic.org](https://www.mayoclinic.org/diseases-conditions/liver-problems/symptoms-causes/syc-20374502).
-* [cleveland.org](https://my.clevelandclinic.org/health/diseases/17179-liver-disease).
-
-- Sources:
-- <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29#)" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
-
-* [Back to Table of Contents](#table-of-contents)
 
 ***
 <h4> Malaria Dataset Information</h4>
