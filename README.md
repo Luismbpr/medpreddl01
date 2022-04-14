@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-* [Aboutssss](#about)
+* [About](#about)
 * [Project Procedure](#project-procedure)
 * [List of Diseases](#list-of-diseases)
 * [Dataset Information](#dataset-information)
@@ -18,6 +18,8 @@
 ## About
 <p> Creation and deployment of an application that predicts whether a set of inputs correspond or not to a disease.</p>
 <p> This project was created using ML and DL Models based on different disease datasets acquired from different sources.</p>
+
+* [Back to Table of Contents](#table-of-contents)
 
 ## Project Procedure
 <ul>
@@ -46,6 +48,8 @@
 </ul>
 <br>
 
+* [Back to Table of Contents](#table-of-contents)
+
 ## List of Diseases
 <hr>
 <h4> The diseases that this app can predict are the following:</h4>
@@ -60,6 +64,8 @@
 <li><p><b>Pneumonia.</b></p></li>
 </ul>
 <hr>
+
+* [Back to Table of Contents](#table-of-contents)
 
 ## Dataset Information
 <p> The information for the acquisition of each disease was gathered by different entities and with different methods.</p>
@@ -76,6 +82,8 @@
 - Sources:
 - <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
 
+* [Back to Table of Contents](#table-of-contents)
+
 ***
 <h4> Diabetes Dataset Information</h4>
 
@@ -91,6 +99,8 @@
 - <i>Donor of database: Vincent Sigillito (vgs@aplcen.apl.jhu.edu) Research Center, RMI Group Leader Applied Physics Laboratory The Johns Hopkins University Johns Hopkins Road Laurel, MD 20707 (301) 953-6231.</i>
 - <i>(NIDDK) National Institute of Diabetes and Digestive and Kidney Diseases</i>
 
+* [Back to Table of Contents](#table-of-contents)
+
 ***
 <h4> Heart Disease Dataset Information</h4>
 
@@ -102,6 +112,8 @@
 
 - Sources:
 - <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/heart+disease" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
+
+* [Back to Table of Contents](#table-of-contents)
 ***
 <h4> Kidney Disease Dataset Information</h4>
 
@@ -112,6 +124,8 @@
 
 - Sources:
 - <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
+
+* [Back to Table of Contents](#table-of-contents)
 
 ***
 <h4> Liver Disease Dataset Information</h4>
@@ -126,6 +140,8 @@
 - Sources:
 - <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29#)" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
 
+* [Back to Table of Contents](#table-of-contents)
+
 ***
 <h4> Malaria Dataset Information</h4>
 
@@ -138,6 +154,8 @@
 
 - Sources:
 - <i>National Library of Medicine Lister Hill National Center for Biomedical Communications. <a href="https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets" target="https://lhncbc.nlm.nih.gov/"> LHNCBC</a>.</i>
+
+* [Back to Table of Contents](#table-of-contents)
 
 ***
 <h4> Pneumonia Dataset Information</h4>
@@ -154,11 +172,15 @@
 - Sources:
 - Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2
 
+* [Back to Table of Contents](#table-of-contents)
+
 ***
 
 ## Project Deployment
 * [Project Located on Github](https://github.com/Luismbpr/medpreddl01).
 * [Project deployed on Heroku Cloud](https://medpreddl01.herokuapp.com/).
+
+* [Back to Table of Contents](#table-of-contents)
 
 ***
  <p> Different languages and resources where used in order for this application to be deployed. </p>
@@ -178,6 +200,8 @@
 </ul>
 </ul>
 
+* [Back to Table of Contents](#table-of-contents)
+
 ## Other Resources
 <ul>
 <h5><li><p> Flask.</p></li></h5>
@@ -185,6 +209,8 @@
 <h5><li><p> Heroku.</p></li></h5>
 </ul>
 <br>
+
+* [Back to Table of Contents](#table-of-contents)
 
 ## Other Information
 <p> Medical Web App based on: </p>
@@ -195,11 +221,15 @@
 - For other projects made by me  <a href="https://github.com/Luismbpr/" target="_blank">click here</a>
 <br>
 
+* [Back to Table of Contents](#table-of-contents)
+
 ## Notes
 <p> This project was not endorsed by any company.</p>
 <p> Special gratitude to all the people who make available the information for the general public. </p>
 <br>
 <p> The application and information displayed here is for educational purposes. The accuracy of the models varies and will make some prediction errors. This should not be taken as medical advice.</p>
 <p> For further questions about the diseases go with your medical advisor.</p>
+
+* [Back to Table of Contents](#table-of-contents)
 
 ***
