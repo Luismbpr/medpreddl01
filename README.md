@@ -67,9 +67,7 @@
 <p> The sources used for the acquisition of the datasets are the following:</p>
 
 ***
-<ul>
-<li><p>Cancer Dataset Information</p></li>
-</ul>
+<h4> Cancer Dataset Information</h4>
 
 * Taken from: [UCI](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
 
@@ -79,9 +77,7 @@
 - <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
 
 ***
-<ul>
-<li><p>Diabetes Dataset Information</p></li>
-</ul>
+<h4> Diabetes Dataset Information</h4>
 
 * Taken from: [NIDDK](https://www.niddk.nih.gov/health-information/diabetes/)).
 
@@ -96,9 +92,8 @@
 - <i>(NIDDK) National Institute of Diabetes and Digestive and Kidney Diseases</i>
 
 ***
-<ul>
-<li><p>Heart Disease Dataset Information</p></li>
-</ul>
+
+<h4> Heart Disease Dataset Information</h4>
 
 * Taken from: [UCI](https://archive.ics.uci.edu/ml/datasets/heart+disease)).
 
@@ -109,10 +104,7 @@
 - Sources:
 - <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/heart+disease" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
 ***
-
-<ul>
-<li><p>Kidney Disease Dataset Information</p></li>
-</ul>
+<h4> Kidney Disease Dataset Information</h4>
 
 * Taken from: [UCI](https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease)).
 
@@ -124,9 +116,7 @@
 
 ***
 
-<ul>
-<li><p>Liver Disease Dataset Information</p></li>
-</ul>
+<h4> Liver Disease Dataset Information</h4>
 
 * Taken from: [UCI](https://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29#).
 
@@ -140,9 +130,7 @@
 
 ***
 
-<ul>
-<li><p>Malaria Dataset Information</p></li>
-</ul>
+<h4> Malaria Dataset Information</h4>
 
 * Taken from: [LHNCBC](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets).
 * Dataset also located on: [Kaggle]("https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria").
@@ -156,9 +144,7 @@
 
 ***
 
-<ul>
-<li><p> Pneumonia Dataset Information</p></li>
-</ul>
+<h4> Pneumonia Dataset Information</h4>
 
 * Taken from: [data.mendeley.com](https://data.mendeley.com/datasets/rscbjbr9sj/2)
 * Dataset also located on:
@@ -185,7 +171,7 @@
 ## Languages Used
 <br>
 <ul>
-<li> * Python </li>
+<h5><li> Python </li></h5>
 <ul>
 <li><p> Data Analysis.</p></li>
 <li><p> Model Creation.</p></li>
@@ -193,7 +179,7 @@
 <br>
 </ul>
 
-<li> * HTML and CSS </li>
+<h5><li> HTML and CSS </li></h5>
 <ul>
 <li><p> Website - Front-End for model deployment.</p></li>
 <br>
@@ -202,9 +188,9 @@
 
 ## Other Resources
 <ul>
-<li><p> Flask.</p></li>
-<li><p> Gunicorn.</p></li>
-<li><p> Heroku.</p></li>
+<h5><li><p> Flask.</p></li></h5>
+<h5><li><p> Gunicorn.</p></li></h5>
+<h5><li><p> Heroku.</p></li></h5>
 </ul>
 <br>
 
