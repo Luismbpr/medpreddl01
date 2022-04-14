@@ -26,7 +26,8 @@
 
 <p> Creation and deployment of an application that predicts whether a set of inputs correspond or not to a disease.</p>
 
-* [Back to Table of Contents](#table-of-contents)
+* [Back to Table of Contents](#table-of-contents
+
 <br>
 
 ## Project Procedure
