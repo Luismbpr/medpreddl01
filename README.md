@@ -201,7 +201,7 @@
 </ul>
 
 * [Back to Table of Contents](#table-of-contents)
-
+***
 ## Other Resources
 <ul>
 <h5><li><p> Flask.</p></li></h5>
@@ -211,18 +211,18 @@
 <br>
 
 * [Back to Table of Contents](#table-of-contents)
-
+***
 ## Other Information
 <p> Medical Web App based on: </p>
 <p>The model creation decision was done taking in consideration various factors, some of them involving the app deployment on the web.</p>
 <br>
 - Based on Shobhit Srivastava's and Karan Mehra's <a href="https://github.com/shobhitsrivastava-ds/ML-MT-WebApp" target="_blank">Project</a>
 
-- For other projects made by me  <a href="https://github.com/Luismbpr/" target="_blank">click here</a>
+- For further inquiries and to see other projects made by me please <a href="https://github.com/Luismbpr/" target="_blank">click here</a>
 <br>
 
 * [Back to Table of Contents](#table-of-contents)
-
+***
 ## Notes
 <p> This project was not endorsed by any company.</p>
 <p> Special gratitude to all the people who make available the information for the general public. </p>
@@ -233,3 +233,21 @@
 * [Back to Table of Contents](#table-of-contents)
 
 ***
+
+<sup name="a1">[1](#f1)</sup>
+
+
+<p>link back to footnote1</p>
+
+<p>link back to footnote2</p>
+
+<p>link back to footnote3</p>
+
+<p>link back to footnote4</p>
+
+<p>link back to footnote5</p>
+
+<p>link back to footnote6</p>
+
+
+<b name="f1">1</b> Footnote Content Here [](#a1)
