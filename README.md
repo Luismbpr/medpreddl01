@@ -213,23 +213,22 @@
 * [Back to Table of Contents](#table-of-contents)
 ***
 ## Other Information
-<p> Medical Web App based on: </p>
+<p> Medical Web App based on:</p>
 <p>The model creation decision was done taking in consideration various factors, some of them involving the app deployment on the web.</p>
-<br>
-- Based on Shobhit Srivastava's and Karan Mehra's <a href="https://github.com/shobhitsrivastava-ds/ML-MT-WebApp" target="_blank">Project</a>
+<p> - Based on Shobhit Srivastava's and Karan Mehra's <a href="https://github.com/shobhitsrivastava-ds/ML-MT-WebApp" target="_blank">Project</a></p>
 
-<p> If you have any questions about the way this project was made.
-- For further questions about the way this project was made or to see other projects made by me please <a href="https://github.com/Luismbpr/" target="_blank">click here</a>
-- For further questions about the way this project was made or for further inquiries e <a href="https://github.com/Luismbpr/" target="_blank">click here</a>
+<p>- For further questions about the way this project was made or to see other projects made by me please <a href="https://github.com/Luismbpr/" target="_blank">click here</a></p>
 
+<p>- For further questions about the way this project was made or for further inquiries e <a href="https://github.com/Luismbpr/" target="_blank">click here</a></p>
 <br>
 
 * [Back to Table of Contents](#table-of-contents)
+
 ***
 ## Notes
 <ul>
 <li><p> This project was not endorsed by any company.</p></li>
 <li><p> Special gratitude to all the people who make the datasets and all the information available.</p></li>
-<hr>
 <li><p> The application and information displayed here is for educational purposes. The accuracy of the models varies and will make some prediction errors. This should not be taken as medical advice.</p></li>
-<li></ul>
+</ul>
+<hr>
