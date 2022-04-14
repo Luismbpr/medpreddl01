@@ -1,8 +1,9 @@
 # Project: medpreds06
-Creation and Deployment of Multiple Machine and Deep Learning Disease Prediction Models.
+
 ***
 
 ## Table of Contents
+
 * [About Project General](#about-project)
 * [Project General Procedure](#project-general-procedure)
 * [Project Information](#project-information)
@@ -15,11 +16,16 @@ Creation and Deployment of Multiple Machine and Deep Learning Disease Prediction
 * [Other Information](#other-information)
 
 ***
-## About Project General (#about-project)
-<p> Creation and deployment of an application that predicts multiple diseases.</p>
-<p> This Web Application makes a prediction whether a set of inputs correspond or not to a disease.</p>
+## About Project
+<p> Creation and deployment of an application that predicts whether a set of inputs correspond or not to a disease.</p>
+<p> Project created using ML and DL Models based on different Datasets.</p>
 
-## Project General Procedure [Project General Procedure] (#project-general-procedure)
+## Project Information
+<p> Each dataset used contains different information about users with and without the disease.</p>
+<p> Each dataset used a different technique to gather the information.</p>
+<br>
+
+## Project General Procedure
 <ul>
 <li><p> Dataset:</p></li>
 <ul>
@@ -30,29 +36,23 @@ Creation and Deployment of Multiple Machine and Deep Learning Disease Prediction
 <ul>
   <li><p> Model Creation.</p></li>
   <li><p> Model Testing.</p></li>
+  <li><p> Model Deployment.</p></li>
 </ul>
 <li><p> Application:</p></li>
 <ul>
-  <li><p> Application Creation, Testing and Decision.</p></li>
-  <li><p> Application Testing.</p></li>
-  <li><p> Application Changes (If Needed).</p></li>
-  <li><p> Application Deployment.</p></li>
+  <li><p> Application Creation.</p></li>
+  <li><p> Application Testing (Local and External).</p></li>
+  <li><p> Application Modification (Local and External).</p></li>
+  <li><p> Application Deployment (Local and External).</p></li>
 </ul>
 <li><p> Documentation:</p></li>
 <ul>
-  <li><p> Creation of Documentation.</p></li>
+  <li><p> Creation of Required Documentation.</p></li>
 </ul>
 </ul>
 <br>
 
-## Project Information
-<p>The Datasets used where gathered from different sources. For further information see 'Dataset Information'.</p><!--> Put link of Dataset Information<!-->
-<p>Data Analysis and model creation was done for each dataset.</p>
-<br>
-<p>The model creation decision was done taking in consideration various factors, and was not solely based on model accuracy.</p>
-<br>
-<p>Different languages and resources where used in order for this application to be deployed on the web.</p>
-<br>
+
 
 <!-->
 The dataset is comprised of multiple features which are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
@@ -79,69 +79,135 @@ The dataset contains information about whether those cells were benign or malign
 <p>Each Dataset contains specific information about the disease.</p>
 <p> The sources used for the acquisition of the datasets are the following:</p>
 
+<!--> ------------------------ Cancer Start - Done  ------------------------ <!-->
 <ul>
 <li><p>Cancer Dataset Information</p></li>
 </ul>
 
-* Taken from: [sklearn.datasets](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html).
-* Dataset also located on: [UCI](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
-- <i>Dua, D. and Graff, C. (2019). , CA: University of California, School of Information and Computer Science. <a href="https://github.com/vaibhavhariaramani/Breast_Cancer_Detection_ML-with-Web-End-Deployment" target="http://archive.ics.uci.edu/mlk"> UCI Machine Learning Repository Irvine</a>.</i>
+* Taken from: [UCI](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
 
-<!--> ------------------------ Cancer End ------------------------ <!-->
+* For more information about cancer please visit: [cancer.net](https://www.cancer.net/)).
 
-<!--> ------------------------ Diabetes Start ------------------------ <!-->
+- Sources:
+- <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
+
+<!--> ------------------------ Cancer End - Done ------------------------ <!-->
+
+<!--> ------------------------ Diabetes Start - Done  ------------------------ <!-->
 <ul>
-<li><p>Cancer Dataset Information</p></li>
+<li><p>Diabetes Dataset Information</p></li>
 </ul>
 
-* Taken from: [sklearn.datasets](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html).
-* Dataset also located on: [UCI](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
-- <i>Dua, D. and Graff, C. (2019). , CA: University of California, School of Information and Computer Science. <a href="https://github.com/vaibhavhariaramani/Breast_Cancer_Detection_ML-with-Web-End-Deployment" target="http://archive.ics.uci.edu/mlk"> UCI Machine Learning Repository Irvine</a>.</i>
+* Taken from: [NIDDK](https://www.niddk.nih.gov/health-information/diabetes/)).
+* Dataset also located on: [Kaggle](https://www.kaggle.com/mathchi/diabetes-data-set)).
 
-<!--> ------------------------ Diabetes End ------------------------ <!-->
+* For more information about diabetes please visit the following websites:
+* [cdc.gov](https://www.cdc.gov/diabetes/index.html)).
+* [diabetes.org](https://www.diabetes.org/)).
 
-<!--> ------------------------ Heart Start ------------------------ <!-->
+- Sources:
+- <i>Donor of database: Vincent Sigillito (vgs@aplcen.apl.jhu.edu) Research Center, RMI Group Leader Applied Physics Laboratory The Johns Hopkins University Johns Hopkins Road Laurel, MD 20707 (301) 953-6231.</i>
+- <i>(NIDDK) National Institute of Diabetes and Digestive and Kidney Diseases</i>
+
+<!--> ------------------------ Diabetes End - Done ------------------------ <!-->
+
+<!--> ------------------------ Heart Start - Done ------------------------ <!-->
 <ul>
-<li><p>Cancer Dataset  Information</p></li>
+<li><p>Heart Disease Dataset Information</p></li>
 </ul>
 
-* Taken from: [sklearn.datasets](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html).
-* Dataset also located on: [UCI](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
-- <i>Dua, D. and Graff, C. (2019). , CA: University of California, School of Information and Computer Science. <a href="https://github.com/vaibhavhariaramani/Breast_Cancer_Detection_ML-with-Web-End-Deployment" target="http://archive.ics.uci.edu/mlk"> UCI Machine Learning Repository Irvine</a>.</i>
+* Taken from: [UCI](https://archive.ics.uci.edu/ml/datasets/heart+disease)).
 
-<!--> ------------------------ Heart End ------------------------ <!-->
+* For more information about heart disease please visit the following websites:
+* [cdc.gov](https://www.cdc.gov/heartdisease/index.htm)).
+* [heart.org](https://www.heart.org/)).
 
-<!--> ------------------------ Kidney Start ------------------------ <!-->
+- Sources:
+- <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/heart+disease" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
+<!--> ------------------------ Heart End - Done ------------------------ <!-->
+
+<!--> ------------------------ Kidney Start - Done ------------------------ <!-->
 <ul>
-<li><p>Cancer Dataset Information</p></li>
+<li><p>Kidney Disease Dataset Information</p></li>
 </ul>
 
-* Taken from: [sklearn.datasets](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html).
-* Dataset also located on: [UCI](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
-- <i>Dua, D. and Graff, C. (2019). , CA: University of California, School of Information and Computer Science. <a href="https://github.com/vaibhavhariaramani/Breast_Cancer_Detection_ML-with-Web-End-Deployment" target="http://archive.ics.uci.edu/mlk"> UCI Machine Learning Repository Irvine</a>.</i>
+* Taken from: [UCI](https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease)).
 
-<!--> ------------------------ Kidney End ------------------------ <!-->
+* For more information kidney disease please visit the following websites:
+* [NIDDK](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/what-is-chronic-kidney-disease#symptoms)).
 
-<!--> ------------------------ Liver Start ------------------------ <!-->
+- Sources:
+- <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
+
+<!--> ------------------------ Kidney End - Done ------------------------ <!-->
+
+<!--> ------------------------ Liver Start - Done ------------------------ <!-->
 <ul>
-<li><p>Cancer Dataset Information</p></li>
+<li><p>Liver Disease Dataset Information</p></li>
 </ul>
 
-* Taken from: [sklearn.datasets](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html).
-* Dataset also located on: [UCI](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
-- <i>Dua, D. and Graff, C. (2019). , CA: University of California, School of Information and Computer Science. <a href="https://github.com/vaibhavhariaramani/Breast_Cancer_Detection_ML-with-Web-End-Deployment" target="http://archive.ics.uci.edu/mlk"> UCI Machine Learning Repository Irvine</a>.</i>
+* Taken from: [UCI](https://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29#).
 
-<!--> ------------------------ Liver End ------------------------ <!-->
+* For more information about liver disease please visit the following websites:
+* [liverfoundation.org](https://liverfoundation.org/)).
+* [mayoclinic.org](https://www.mayoclinic.org/diseases-conditions/liver-problems/symptoms-causes/syc-20374502)).
+* [cleveland.org](https://my.clevelandclinic.org/health/diseases/17179-liver-disease)).
 
+- Sources:
+- <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29#)" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
+
+<!--> ------------------------ Liver End - Done ------------------------ <!-->
+<!--> ------------------------ Malaria Start - Done ------------------------ <!-->
+<ul>
+<li><p>Malaria Dataset Information</p></li>
+</ul>
+
+* Taken from: [LHNCBC](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets).
+* Dataset also located on: [Kaggle]("https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria").
+
+* For more information about liver disease please visit the following websites:
+* [NIDDK](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/what-is-chronic-kidney-disease#symptoms)).
+* [cdc.gov](https://www.cdc.gov/malaria/about/disease.html)).
+* [mayoclinic.org](https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184)).
+
+- Sources:
+- <i>National Library of Medicine Lister Hill National Center for Biomedical Communications. <a href="https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets" target="https://lhncbc.nlm.nih.gov/"> LHNCBC</a>.</i>
+
+<!--> ------------------------ Malaria End  - Done ------------------------ <!-->
+
+<!--> ------------------------ Pneumonia Start ------------------------ <!-->
+<ul>
+<li><p> Pneumonia Dataset Information</p></li>
+</ul>
+
+* Taken from: [data.mendeley.com](https://data.mendeley.com/datasets/rscbjbr9sj/2)
+* Dataset also located on:
+* [cell.com](ttps://www.cell.com/cell/fulltext/S0092-8674(18)30154-5).
+* [Kaggle]("https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria").
+
+* For more information about pneumonia please visit the following websites:
+* [NIDDK](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/what-is-chronic-kidney-disease#symptoms)).
+* [lung.org](https://www.lung.org/lung-health-diseases/lung-disease-lookup/pneumonia/)).
+* [cdc.gov](https://www.cdc.gov/pneumonia/causes.html)).
+
+- Sources:
+- Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2
+- <i>Dua, D. and Graff, C. (2019). Irvine, CA: University of California, School of Information and Computer Science. <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)" target="http://archive.ics.uci.edu/ml"> UCI Machine Learning Repository</a>.</i>
+
+<!--> ------------------------ Pneumonia End ------------------------ <!-->
 
 <!--> --------------------------------------------------------------- <!-->
 
-
 ### Project Deployment
 * [Project Located on Github](https://github.com/Luismbpr/medpreddl01).
-#Note: Create This* [Project deployed on Heroku](https://medpreddl01.herokuapp.com/).
+* [Project deployed on Heroku Cloud](https://medpreddl01.herokuapp.com/).
 
+***
+<br>
+## Different languages and resources where used in order for this application to be deployed.
+<br>
 ## Languages Used
+<br>
 <ul>
 <li> * Python </li>
 <br>
@@ -157,7 +223,7 @@ The dataset contains information about whether those cells were benign or malign
 <li> * HTML and CSS </li>
 <br>
 <ul>
-<li><p> Website - Front End for model deployment.</p></li>
+<li><p> Website - Front-End for model deployment.</p></li>
 <br>
 </ul>
 </ul>
@@ -165,24 +231,24 @@ The dataset contains information about whether those cells were benign or malign
 ## Other Resources
 <ul>
 <li><p> Flask.</p></li>
-<br>
 <li><p> Gunicorn.</p></li>
-<br>
 <li><p> Heroku.</p></li>
 <br>
 </ul>
 <br>
 
 ## Other Information
-<p>-- Project deployed on Heroku Cloud.</p>
-- Based on Vaibhav Hariramani's <a href="https://github.com/vaibhavhariaramani/Breast_Cancer_Detection_ML-with-Web-End-Deployment" target="_blank">Project</a>
-- Vaibhav Hariramani's <a href="https://github.com/vaibhavhariaramani" target="_blank">Github Page</a>
+<p>Medical Web App based on: </p>
+<p>The model creation decision was done taking in consideration various factors, some of them involving the app deployment on the web.</p>
+<br>
+- Based on Shobhit Srivastava's and Karan mehra's <a href="https://github.com/shobhitsrivastava-ds/ML-MT-WebApp" target="_blank">Project</a>
 <br>
 
-
-
-
-
+## Notes:
+<br>
+<p>This project was not endorsed by any company.</p>
+<p> The application and information displayed here is for educational purposes and will have some prediction errors. This should not be taken as medical advice.</p>
+<p> For questions go with your medical advisor.</p>
 
 
 
