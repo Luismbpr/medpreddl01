@@ -64,9 +64,10 @@
 <li><p><b>Malaria.</b></p></li>
 <li><p><b>Pneumonia.</b></p></li>
 </ul>
-<hr>
 
 * [Back to Table of Contents](#table-of-contents)
+
+<hr>
 
 ## Dataset Information
 <p> The information for the acquisition of each disease was gathered by different entities and with different methods.</p>
@@ -227,12 +228,10 @@
 <p> This project was not endorsed by any company.</p>
 <p> Special gratitude to all the people who make the datasets and all the information available.</p>
 <br>
-***
+<hr>
 <p> The application and information displayed here is for educational purposes. The accuracy of the models varies and will make some prediction errors. This should not be taken as medical advice.</p>
 <p> For further questions about the diseases go with your medical advisor.</p>
-
-* [Back to Table of Contents](#table-of-contents)
-***
+<hr>
 <!--> When you click here
 <sup name="a1">[1](#f1)</sup> <!-->
 
