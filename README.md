@@ -1,5 +1,5 @@
 # Project: medpreds06
-<sup name="a1">[1](#f1)</sup>
+
 ***
 
 ## Table of Contents
@@ -9,6 +9,7 @@
 * [List of Diseases](#list-of-diseases)
 * [Dataset Information](#dataset-information)
 * [Project Deployment](#project-deployment)
+* [Resources](#resources)
 * [Languages Used](#languages-used)
 * [Other Resources](#other-resources)
 * [Other Information](#other-information)
@@ -180,9 +181,8 @@
 * [Project Located on Github](https://github.com/Luismbpr/medpreddl01).
 * [Project deployed on Heroku Cloud](https://medpreddl01.herokuapp.com/).
 
-* [Back to Table of Contents](#table-of-contents)
-
 ***
+## Resources
  <p> Different languages and resources where used in order for this application to be deployed. </p>
 
 ## Languages Used
@@ -225,26 +225,16 @@
 ***
 ## Notes
 <p> This project was not endorsed by any company.</p>
-<p> Special gratitude to all the people who make available the information for the general public. </p>
+<p> Special gratitude to all the people who make the datasets and all the information available.</p>
 <br>
+***
 <p> The application and information displayed here is for educational purposes. The accuracy of the models varies and will make some prediction errors. This should not be taken as medical advice.</p>
 <p> For further questions about the diseases go with your medical advisor.</p>
 
 * [Back to Table of Contents](#table-of-contents)
-
 ***
+<!--> When you click here
+<sup name="a1">[1](#f1)</sup> <!-->
 
-
-<b name="f1">1</b> Footnote Content Here [](#a1)
-
-<p>link back to footnote1</p>
-
-<p>link back to footnote2</p>
-
-<p>link back to footnote3</p>
-
-<p>link back to footnote4</p>
-
-<p>link back to footnote5</p>
-
-<p>link back to footnote6</p>
+<!--> It redirects you to here
+<b name="f1">1</b> Footnote Content Here [](#a1) <!-->
